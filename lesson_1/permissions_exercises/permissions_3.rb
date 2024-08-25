@@ -1,4 +1,4 @@
-# August 22, 2024
+# August 22, 2024  
 
 # What are mary's permissions for the napkins file in the following outputs?
 

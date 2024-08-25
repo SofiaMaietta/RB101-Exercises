@@ -1,4 +1,4 @@
-# August 22, 2024
+# August 22, 2024 
 
 # What are mary's permissions to the laptop file in the following example? What are the permissions for the group acmeinc?
 

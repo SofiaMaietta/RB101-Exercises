@@ -1,4 +1,4 @@
-# August 22, 2024
+# August 22, 2024 
 
 # Which user and group are assigned to the $HOME folder?
 
